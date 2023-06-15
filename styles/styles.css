@@ -1,7 +1,56 @@
+	
+header {
+	width: 100%;
+	padding: 21px;
+}
 .container {
+	position: fixed;
+	width: 1089px;
+	margin: 0 auto;
+	margin-left: 100px;
+	font-family: Roboto;
 
 }
 
 nav {
 	display: inline-block;
+	vertical-align: middle;
+}
+li {
+	display: inline-block;
+	margin-right: 30px;
+}
+
+header img {
+	vertical-align: middle;
+	margin-right: 500px;
+}
+ h1 {
+    width: 120px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 42px;
+ }
+.container1
+{
+	
+
+}
+
+.parent {
+	display: inline-block;
+	position: relative;
+}
+h2 {
+    width: 184px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    margin-left: 41px;
+    margin-top: 32px;
 }

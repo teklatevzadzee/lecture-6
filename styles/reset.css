@@ -44,7 +44,10 @@ table {
 
 * {
 	box-sizing: border-box;
+	margin-left: 100px;
+	font-family: Roboto;
 }
 a {
 	text-decoration: none;
+
 }
